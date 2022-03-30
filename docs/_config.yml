@@ -3,10 +3,3 @@ title: Layer2Labs
 description: Build products on the top of Bitcoin
 baseurl: ""
 url: "https://layer2labs.github.io/"
-
-products links:
-MarketplaceP2P: https://github.com/Layer2Labs/MarketplaceP2P
-EVM: https://github.com/Layer2Labs/EVM
-ArtByre: https://github.com/Layer2Labs/ArtByte
-Jet: https://github.com/Layer2Labs/Jet
-SecurityTokens: https://github.com/Layer2Labs/SecurityTokens
