@@ -11,10 +11,17 @@ Do the freedom happening with everyone
 
 ## Products
 
-*Stablecoins 
-*EVM on Lightning Network
-*Security Tokens
-*Exchance Decentralized
+*Stablecoins;
+
+*EVM on Lightning Network;
+
+*Security Tokens;
+
+*Exchance Decentralized;
+
+*Marketplace P2P;
+
+*Marketplace NFTs.
 
 ## Contact
 
