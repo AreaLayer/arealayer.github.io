@@ -5,8 +5,8 @@ baseurl: ""
 url: "https://layer2labs.github.io/"
 
 # products links:
-Marketplace P2P: https://github.com/Layer2Labs/MarketplaceP2P
+MarketplaceP2P: https://github.com/Layer2Labs/MarketplaceP2P
 EVM: https://github.com/Layer2Labs/EVM
-Marketplace NFT: https://github.com/Layer2Labs/ArtByte
-Stablecoin: https://github.com/Layer2Labs/Jet
-Security Tokens: https://github.com/Layer2Labs/SecurityTokens
+ArtByre: https://github.com/Layer2Labs/ArtByte
+Jet: https://github.com/Layer2Labs/Jet
+SecurityTokens: https://github.com/Layer2Labs/SecurityTokens
