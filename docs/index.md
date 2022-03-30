@@ -1,12 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Layer2Labs/layer2labs.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### Layer2Labs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Layer2Labs is a organization with focus in build products and services on the top of Bitcoin
 
 ```markdown
 Syntax highlighted code block
