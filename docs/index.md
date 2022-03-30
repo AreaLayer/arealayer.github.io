@@ -35,7 +35,7 @@ MarketplaceP2P: https://github.com/Layer2Labs/MarketplaceP2P
 
 EVM: https://github.com/Layer2Labs/EVM
 
-ArtByre: https://github.com/Layer2Labs/ArtByte
+ArtByte: https://github.com/Layer2Labs/ArtByte
 
 Jet: https://github.com/Layer2Labs/Jet
 
