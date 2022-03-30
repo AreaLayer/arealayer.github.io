@@ -1,33 +1,25 @@
-## Welcome to GitHub Pages
+## Layer2Labs
+![568889 (2)](https://user-images.githubusercontent.com/83122757/160809589-26d2f1b3-0090-4a36-a803-24e3144d44ad.png)
 
-### Layer2Labs
+### Who we are? 
 
 Layer2Labs is a organization with focus in build products and services on the top of Bitcoin
 
-```markdown
-Syntax highlighted code block
+## Mission
 
-# Header 1
-## Header 2
-### Header 3
+Do the freedom happening with everyone
 
-- Bulleted
-- List
+## Products
 
-1. Numbered
-2. List
+*Stablecoins 
+*EVM on Lightning Network
+*Security Tokens
+*Exchance Decentralized
 
-**Bold** and _Italic_ and `Code` text
+## Contact
 
-[Link](url) and ![Image](src)
-```
+https://github.com/Layer2Labs
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Disclaimer
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Layer2Labs/layer2labs.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All the products above are in phase of development 
