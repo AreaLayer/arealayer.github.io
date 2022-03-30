@@ -7,7 +7,13 @@ Layer2Labs is a organization with focus in build products and services on the to
 
 ## Mission
 
-Do the freedom happening with everyone
+To take freedom for people around world.
+
+## Team 
+
+With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team will research best product or sevirce for accelerate adption of the Bitcoin
+
+![image](https://user-images.githubusercontent.com/83122757/160813808-b03a78f0-6d75-4035-a484-d84cff5a0580.png)
 
 ## Products
 
@@ -23,6 +29,10 @@ Do the freedom happening with everyone
 
 *Marketplace NFTs.
 
+## Coming Soon 
+
+Layer2Labs is an in-progress, working experiment and tests. We are aggressively testing our hypothesis and the resulting model, and hope to publish not only a page, but working source code and amazing products.
+
 ## Contact
 
 https://github.com/Layer2Labs
@@ -30,3 +40,5 @@ https://github.com/Layer2Labs
 ## Disclaimer
 
 All the products above are in phase of development 
+
+Check more here: https://layertwolabs.gitbook.io/
