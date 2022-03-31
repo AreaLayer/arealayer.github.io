@@ -31,7 +31,7 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 ## Products Links
 
-*Marketplace P2P: https://github.com/Layer2Labs/MarketplaceP2P
+*Marketplace P2P: https://github.com/Layer2Labs/P2PBTC
 
 *EVM: https://github.com/Layer2Labs/EVM
 
