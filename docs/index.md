@@ -31,15 +31,17 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 ## Products Links
 
-MarketplaceP2P: https://github.com/Layer2Labs/MarketplaceP2P
+*Marketplace P2P: https://github.com/Layer2Labs/MarketplaceP2P
 
-EVM: https://github.com/Layer2Labs/EVM
+*EVM: https://github.com/Layer2Labs/EVM
 
-ArtByte: https://github.com/Layer2Labs/ArtByte
+*Marketplace NFT: https://github.com/Layer2Labs/ArtByte
 
-Jet: https://github.com/Layer2Labs/Jet
+*Stablecoin: https://github.com/Layer2Labs/Jet
 
-SecurityTokens: https://github.com/Layer2Labs/SecurityTokens
+*Security Tokens: https://github.com/Layer2Labs/SecurityTokens
+
+*Exchange Decentralized: https://github.com/PorticoExchange
 
 
 ## Coming Soon 
