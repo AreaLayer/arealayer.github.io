@@ -56,6 +56,10 @@ Layer2Labs is an in-progress, working experiment and tests. We are aggressively 
 
 https://github.com/Layer2Labs
 
+## Layer2Labs on Crunchbase
+
+https://www.crunchbase.com/organization/layer2labs
+
 ## Disclaimer
 
 All the products above are in phase of development 
