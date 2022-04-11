@@ -25,7 +25,11 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Marketplace P2P;
 
-*Marketplace NFTs.
+*Marketplace NFTs;
+
+*Index Token (NEW);
+
+*Lightning Name Service (NEW).
 
 ## Products Links
 
@@ -38,6 +42,10 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 *Security Tokens: https://github.com/Layer2Labs/SecurityTokens
 
 *Exchange Decentralized: https://github.com/PorticoExchange
+
+*Lightning Name Service: https://github.com/Layer2Labs/LightningNameService (NEW)
+
+*Index token: https://github.com/Layer2Labs/Index (NEW)
 
 
 ## Coming Soon 
