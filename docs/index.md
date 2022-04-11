@@ -19,8 +19,6 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Stablecoins;
 
-*EVM on Lightning Network;
-
 *Security Tokens;
 
 *Exchance Decentralized;
@@ -32,8 +30,6 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 ## Products Links
 
 *Marketplace P2P: https://github.com/Layer2Labs/P2PBTC
-
-*EVM: https://github.com/Layer2Labs/EVM
 
 *Marketplace NFT: https://github.com/Layer2Labs/ArtByte
 
@@ -58,6 +54,8 @@ https://www.crunchbase.com/organization/layer2labs
 
 ## Disclaimer
 
-All the products above are in phase of development 
+All the products above are in phase of development;
+
+We are not funded by Venture Capital.
 
 Check more here: https://layertwolabs.gitbook.io/
