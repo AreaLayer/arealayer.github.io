@@ -43,9 +43,9 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Exchange Decentralized: https://github.com/PorticoExchange
 
-*Lightning Name Service: https://github.com/Layer2Labs/LightningNameService (NEW)
+*Lightning Name Service: https://github.com/Layer2Labs/LightningNameService 
 
-*Index token: https://github.com/Layer2Labs/Index (NEW)
+*Index token: https://github.com/Layer2Labs/Index 
 
 
 ## Coming Soon 
@@ -60,10 +60,22 @@ https://github.com/Layer2Labs
 
 https://www.crunchbase.com/organization/layer2labs
 
+# Whitepaper
+
+*Marketplace P2P: https://layertwolabs.gitbook.io/p2p-btc/
+
+*Marketplace NFT: https://layertwolabs.gitbook.io/artbytes/
+
+*Stablecoin:https://layertwolabs.gitbook.io/jet/
+
+*Security Tokens/Index Token: https://layertwolabs.gitbook.io/security-tokens-and-index-token/
+
+*Exchange Decentralized: https://layertwolabs.gitbook.io/portico-exchange/
+
+*Lightning Name Service: https://layertwolabs.gitbook.io/lightning-name-service/
+
 ## Disclaimer
 
 All the products above are in phase of development;
 
 We are not funded by Venture Capital.
-
-Check more here: https://layertwolabs.gitbook.io/
