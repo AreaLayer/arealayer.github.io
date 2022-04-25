@@ -60,7 +60,7 @@ https://github.com/Layer2Labs
 
 https://www.crunchbase.com/organization/layer2labs
 
-# Whitepaper
+## Whitepaper
 
 *Marketplace P2P: https://layertwolabs.gitbook.io/p2p-btc/
 
