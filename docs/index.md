@@ -27,9 +27,11 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Marketplace NFTs;
 
-*Index Token (NEW);
+*Index Token;
 
-*Lightning Name Service (NEW).
+*Lightning Name Service;
+
+*Public repositories.
 
 ## Products Links
 
@@ -54,7 +56,9 @@ Layer2Labs is an in-progress, working experiment and tests. We are aggressively 
 
 ## Contact
 
-https://github.com/Layer2Labs
+*https://github.com/Layer2Labs
+
+*layer2labs@gmail.com
 
 ## Layer2Labs on Crunchbase
 
