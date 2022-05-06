@@ -83,6 +83,6 @@ https://www.crunchbase.com/organization/layer2labs
 
 *All the products above are in phase of development;
 
-*We are not funded by Venture Capital.
+*We are not funded by Venture Capital;
 
 *Before our products be released in the market we do test of security and audit.
