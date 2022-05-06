@@ -49,6 +49,7 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Index token: https://github.com/Layer2Labs/Index 
 
+*Circle: https://github.com/Layer2Labs/circle-interface
 
 ## Coming Soon 
 
@@ -80,6 +81,8 @@ https://www.crunchbase.com/organization/layer2labs
 
 ## Disclaimer
 
-All the products above are in phase of development;
+*All the products above are in phase of development;
 
-We are not funded by Venture Capital.
+*We are not funded by Venture Capital.
+
+*Before our products be released in the market we do test of security and audit.
