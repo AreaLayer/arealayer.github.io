@@ -49,7 +49,7 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Index token: https://github.com/Layer2Labs/Index 
 
-*Circle: https://github.com/Layer2Labs/circle-interface
+*Circle: https://github.com/Layer2Labs/CircleInterface
 
 ## Coming Soon 
 
