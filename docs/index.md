@@ -39,7 +39,7 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Marketplace NFT: https://github.com/Layer2Labs/ArtByte
 
-*Stablecoin: https://github.com/Layer2Labs/Jet
+*Stablecoin: https://github.com/Layer2Labs/Jet-USDJJ
 
 *Security Tokens: https://github.com/Layer2Labs/SecurityTokens
 
