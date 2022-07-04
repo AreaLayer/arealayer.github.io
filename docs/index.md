@@ -61,6 +61,8 @@ Layer2Labs is an in-progress, working experiment and tests. We are aggressively 
 
 *layer2labs@gmail.com
 
+*https://twitter.com/Layer2L
+
 ## Layer2Labs on Crunchbase
 
 https://www.crunchbase.com/organization/layer2labs
