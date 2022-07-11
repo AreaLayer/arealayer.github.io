@@ -31,7 +31,9 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Lightning Name Service;
 
-*Public repositories.
+*Public repositories;
+
+*Mobie phone by Lightning Network.
 
 ## Products Links
 
@@ -50,6 +52,8 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 *Index token: https://github.com/Layer2Labs/Index 
 
 *Circle: https://github.com/Layer2Labs/CircleInterface
+
+*Lightning Mobile: https://github.com/Layer2Labs/Lightning-Mobile
 
 ## Coming Soon 
 
