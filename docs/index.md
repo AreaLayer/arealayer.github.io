@@ -67,6 +67,10 @@ Layer2Labs is an in-progress, working experiment and tests. We are aggressively 
 
 *https://twitter.com/Layer2L
 
+## Jobs
+
+https://bitcoinerjobs.com/company/layer2labs
+
 ## Layer2Labs on Crunchbase
 
 https://www.crunchbase.com/organization/layer2labs
