@@ -13,8 +13,6 @@ To take freedom for people around world.
 
 With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team will research best product or sevirce for accelerate adption of the Bitcoin
 
-![image](https://user-images.githubusercontent.com/83122757/160813808-b03a78f0-6d75-4035-a484-d84cff5a0580.png)
-
 ## Products
 
 *Stablecoins;
