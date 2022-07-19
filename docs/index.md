@@ -41,9 +41,9 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Lightning Mobile: https://github.com/Layer2Labs/Lightning-Mobile
 
-*Wallet Lightning: https://github.com/Layer2Labs/LightningWallet
+*Wallet Lightning: https://github.com/Layer2Labs/LightningWallet1
 
-*Lightning Music https://github.com/Layer2Labs/LNMusic
+*Lightning Music: https://github.com/Layer2Labs/LightningMusic
 
 ## Coming Soon 
 
