@@ -23,7 +23,11 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Public repositories;
 
-*Mobie phone by Lightning Network.
+*Mobie phone by Lightning Network;
+
+*Wallet Lightning;
+
+*Lightning Music.
 
 ## Products Links
 
@@ -36,6 +40,10 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 *Circle: https://github.com/Layer2Labs/CircleInterface
 
 *Lightning Mobile: https://github.com/Layer2Labs/Lightning-Mobile
+
+*Wallet Lightning: https://github.com/Layer2Labs/LightningWallet
+
+*Lightning Music https://github.com/Layer2Labs/LNMusic
 
 ## Coming Soon 
 
