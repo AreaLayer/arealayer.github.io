@@ -23,7 +23,7 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Public repositories;
 
-*Mobie phone by Lightning Network;
+*Mobile phone by Lightning Network;
 
 *Wallet Lightning;
 
