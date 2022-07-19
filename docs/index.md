@@ -3,7 +3,7 @@
 
 ### Who we are? 
 
-Layer2Labs is a organization with focus in build products and services on the top of Bitcoin
+Layer2Labs is a startup  with focus in build products and services on the top of Bitcoin (Lightning Network, Sidechains and layers).
 
 ## Mission
 
@@ -25,8 +25,6 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Marketplace NFTs;
 
-*Index Token;
-
 *Lightning Name Service;
 
 *Public repositories;
@@ -47,8 +45,6 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 *Lightning Name Service: https://github.com/Layer2Labs/LightningNameService 
 
-*Index token: https://github.com/Layer2Labs/Index 
-
 *Circle: https://github.com/Layer2Labs/CircleInterface
 
 *Lightning Mobile: https://github.com/Layer2Labs/Lightning-Mobile
@@ -68,6 +64,8 @@ Layer2Labs is an in-progress, working experiment and tests. We are aggressively 
 ## Jobs
 
 https://bitcoinerjobs.com/company/layer2labs
+
+https://angel.co/company/layer2labs
 
 ## Layer2Labs on Crunchbase
 
