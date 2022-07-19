@@ -15,15 +15,9 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 
 ## Products
 
-*Stablecoins;
-
-*Security Tokens;
-
 *Exchance Decentralized;
 
 *Marketplace P2P;
-
-*Marketplace NFTs;
 
 *Lightning Name Service;
 
@@ -34,12 +28,6 @@ With experience in smart contracts as Ethereum, BNB Chain, Matic, etc. The team 
 ## Products Links
 
 *Marketplace P2P: https://github.com/Layer2Labs/P2PBTC
-
-*Marketplace NFT: https://github.com/Layer2Labs/ArtByte
-
-*Stablecoin: https://github.com/Layer2Labs/Jet-USDJJ
-
-*Security Tokens: https://github.com/Layer2Labs/SecurityTokens
 
 *Exchange Decentralized: https://github.com/PorticoExchange
 
@@ -74,12 +62,6 @@ https://www.crunchbase.com/organization/layer2labs
 ## Whitepaper
 
 *Marketplace P2P: https://layertwolabs.gitbook.io/p2p-btc/
-
-*Marketplace NFT: https://layertwolabs.gitbook.io/artbytes/
-
-*Stablecoin:https://layertwolabs.gitbook.io/jet/
-
-*Security Tokens/Index Token: https://layertwolabs.gitbook.io/security-tokens-and-index-token/
 
 *Exchange Decentralized: https://layertwolabs.gitbook.io/portico-exchange/
 
