@@ -1,5 +1,3 @@
-
-
 import { Html, Head, Main, NextScript } from 'next/document';
 import MetaTags from '../src/components/Atoms/MetaTags';
 
