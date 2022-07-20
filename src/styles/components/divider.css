@@ -1,0 +1,12 @@
+.rotate-y-180 {
+    transform: rotateY(180deg);
+    -webkit-transform: rotateY(180deg);
+}
+
+.divider-y {
+    content: "";
+    position: absolute;
+    width: 2px;
+    background-image: linear-gradient(to bottom, #131a30 0%, #7382b2 50%, #131a30 91%);
+}
+Footer
