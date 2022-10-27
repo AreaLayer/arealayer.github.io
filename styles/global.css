@@ -1,7 +1,0 @@
-@import './base.css';
-@tailwind base;
-@import './text.css';
-@tailwind components;
-@import './components/links.css';
-@import './components/divider.css';
-@tailwind utilities;
